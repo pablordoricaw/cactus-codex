@@ -1,5 +1,5 @@
 ---
-title: Cactus Codex
+title: 🌵 Cactus Codex
 ---
 Hello there 👋,
 
@@ -12,8 +12,8 @@ The purpose for my digital garden is for it to be a place that helps me think, u
 - the target reader which guides all user decisions for this place is *future me*,
 - the entire garden is a work in progress and can change quickly.
 
-> If you are not *future me* and you find yourself here and at some point come across something that makes you think "why is X this way?" or "how did we got here?", you can blame *future me*.
+> If you are not *future me* and you find yourself here and at some point come across something that makes you think "why is X this way?" or "how did we get here?", you can blame *future me*.
 
-I hope you have a fruitful time here (haha).
+Even if Cactus Codex is selfishly meant for *future me*, I still hope you have a fruitful time here similar to how I've found other digital gardens, second brains and blogs useful.
 
 Pablo 🙂

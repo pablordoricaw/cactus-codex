@@ -1,4 +1,4 @@
-# Cactus Codex: Digital Garden
+# 🌵 Cactus Codex: Digital Garden
 
 This is the source repository for my digital garden, Cactus Codex. I use [Quartz v4](https://github.com/jackyzha0/quartz) to publish Cactus Codex as a website that anyone can stumble upon and *walk through*.
 
