@@ -1,9 +1,9 @@
 ---
-title: 🌵 Cactus Codex
+title: Welcome to 🌵 Cactus Codex
 ---
 Hello there 👋,
 
-I'm Pablo and welcome to *Cactus Codex* - my [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening).
+I'm Pablo and welcome to 🌵 *Cactus Codex* - my [digital garden](https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening).
 
 Before you're off to explore let me take a min to give you some context:
 
